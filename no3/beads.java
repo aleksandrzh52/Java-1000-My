@@ -14,5 +14,6 @@ public class beads {
         fileWriter.write(String.valueOf(scanner.nextInt()+1));
         fileWriter.close();
 
+
     }
 }
